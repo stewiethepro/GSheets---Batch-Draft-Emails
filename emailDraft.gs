@@ -41,7 +41,7 @@ function draftEmails() {
 
       // Build the email message
       var emailBody =  '<p '+ style +'>Hi ' + contactName + ',</p>';
-          emailBody += '<p '+ style +'>How are things going with our product at '+ companyName +'?</p>';
+          emailBody += '<p '+ style +'>How are things going with ScheduleOnce at '+ companyName +'?</p>';
           emailBody += '<p '+ style +'>If you have any issues feel free to contact me at this email address</p>';
           emailBody += '<p '+ style +'>All the best,</p>';
           emailBody += '<p '+ style +'>'+ aeName +'</p>';
